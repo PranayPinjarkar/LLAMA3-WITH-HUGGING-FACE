@@ -9,8 +9,8 @@ It highlights how open-source LLMs like **Meta LLaMA 2/3** can be leveraged to
 ## 🚀 Overview
 
 ### Supported LLM Models
-- **ChatGPT** → OpenAI *(Workshop Completed)*
-- **Gemini AI** → Google *(Workshop Completed)*
+- **ChatGPT** → OpenAI 
+- **Gemini AI** → Google 
 - **LLaMA (Meta/Facebook)** → Focus Model  
 
 ### Key Versions
@@ -103,5 +103,4 @@ HF_TOKEN = "your_huggingface_access_token"
 
 By following this setup, you can build, fine‑tune, and deploy your **own generative AI model** locally — similar in workflow to ChatGPT or Gemini AI — powered by **Meta LLaMA 3**.
 
-### Example Model Reference
 
