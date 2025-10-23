@@ -9,8 +9,8 @@ It highlights how open-source LLMs like **Meta LLaMA 2/3** can be leveraged to
 ## 🚀 Overview
 
 ### Supported LLM Models
-- **ChatGPT** → OpenAI *(Workshop Completed)*
-- **Gemini AI** → Google *(Workshop Completed)*
+- **ChatGPT** → OpenAI 
+- **Gemini AI** → Google 
 - **LLaMA (Meta/Facebook)** → Focus Model  
 
 ### Key Versions
