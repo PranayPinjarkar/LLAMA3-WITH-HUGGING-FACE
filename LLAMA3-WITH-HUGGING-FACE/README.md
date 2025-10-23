@@ -92,6 +92,7 @@ Ollama enables running LLaMA 3 locally on CPU, ideal for experimentation witho
 - Supports **fine‑tuning, prompting, and quantization** natively.  
 
 ---
+### Example Model Reference
 
 
 model = "meta-llama/Meta-Llama-3-8B"
@@ -103,5 +104,4 @@ HF_TOKEN = "your_huggingface_access_token"
 
 By following this setup, you can build, fine‑tune, and deploy your **own generative AI model** locally — similar in workflow to ChatGPT or Gemini AI — powered by **Meta LLaMA 3**.
 
-### Example Model Reference
 
